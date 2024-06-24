@@ -8,7 +8,6 @@ class Samsung{
 		String RAMMemoryInstalledSize = "12 GB";
 		String CPUModel = "Snapdragon";
 		String memoryStorageCapacity = "256 GB";
-		
 		System.out.println("Brand "+brand);
 		System.out.println("Operating System "+operatingSystem);
 		System.out.println("RAM Memory Installed Size "+RAMMemoryInstalledSize);
